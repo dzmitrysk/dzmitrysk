@@ -1,7 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Python<br>
 👯 I’m looking to collaborate on any project to improve my python hardskills<br>
-💬 Ask me about civil construction design. I have a wide expertise on it 🤓<br>
 
 ## How to reach me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dmitry-kolyago-27091199)
